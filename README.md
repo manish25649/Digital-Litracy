@@ -1,9 +1,9 @@
 # Digital Literacy Project
 
 ## 👤 Student Details
-Name: Tanush Agrawal  
-Reg No: 25BAI10314
-Branch: B.Tech CSE (AI/ML) 
+Name: Manish kumar  
+Reg No: 25BCE10510
+Branch: B.Tech CSE core 
 Course: Digital Literacy  
 
 ---
